@@ -1,0 +1,7 @@
+{
+  "name": " JARVIS AI",
+  "description": "A highly customizable, voice-enabled AI assistant featuring real-time chat, multiple themes, and adjustable voice personalities using Gemini models.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
